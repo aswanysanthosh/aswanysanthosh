@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aswany Santhosh 👋
 
-<!--
-**aswanysanthosh/aswanysanthosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate
 
-Here are some ideas to get you started:
+💻 Python Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Django
+- React JS
+- MySQL
+- REST APIs
+- Git & GitHub
+
+## Projects
+- Newscrafter
+- E-commerce Web Application
+- Recyclable Waste Classification using CNN
+
+📫 Email: your email
